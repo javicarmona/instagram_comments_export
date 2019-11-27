@@ -1,21 +1,13 @@
 ### I am Groot █║▌│█│║▌║││█║▌║▌║
-and this is my app for register and save users in a file.
-
+and this is my app export all the comments from an Instagram post.
 ![](source.gif)
                  
 
 ### What is this? 📄
 
-This is a very easy app that create a login service with users and password register.
-log_in_app creates a file where users and passwords are saved. 
-If you user "admin" as username you will access to the admin menu from where you can manage the users. 
+Export comments from Instagram is very easy, but not when you have to export more than 100, you have use paid apps or create a hundred of free one-use accounts, this problem is solved with this app, provide the link and the app will create an excel file with al the users, comments and date-time.
 
 ### Starting 🚀
 
 Download and use it!! 
-
-To can manage users you must log in as admin with 
-
-User: "admin"
-Pass: "canela"
 
