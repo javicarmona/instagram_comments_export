@@ -1,0 +1,11 @@
+runtime: python37
+
+handlers:
+- url: /static
+  static_dir: static
+  
+- url: /templates
+  static_dir: templates
+
+- url: /.*
+  script: auto
