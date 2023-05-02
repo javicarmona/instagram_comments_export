@@ -1,4 +1,4 @@
-Flask==1.1.1
+Flask==2.3.2
 InstagramAPI==1.0.2
 requests==2.22.0
 pandas==0.23.4
