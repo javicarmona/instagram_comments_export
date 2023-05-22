@@ -1,6 +1,6 @@
 Flask==2.3.2
 InstagramAPI==1.0.2
-requests==2.22.0
+requests==2.31.0
 pandas==0.23.4
 pathlib2==2.3.2
 google-cloud-storage==1.13.0
